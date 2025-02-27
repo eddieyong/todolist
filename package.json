@@ -1,5 +1,7 @@
 {
   "name": "react-todo",
+  "homepage": "https://eddieyong.github.io/todolist/",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
